@@ -1,0 +1,76 @@
+.wrap-load-more {
+    cursor: pointer;
+    background: #fff;
+    text-align: center;
+    line-height: 40px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 0 0 3px rgba(195, 195, 195, 0.35);
+    -moz-box-shadow: 0 0 3px rgba(195, 195, 195, 0.35);
+    box-shadow: 0 0 3px rgba(195, 195, 195, 0.35);
+    width: 1555px;
+}
+/* logoÎ»ÖÃ¿ØÖÆ */
+#logo {
+	margin: -40 0 15 0;
+}
+/* Ä£°åÍ¼Æ¬ */
+.span2 img{
+	width: 200px;
+    height: 200px;
+    display: block;
+    cursor: pointer;
+}
+/*±³¾°É«*/
+#myTabContent{
+	background-color:#eeeeee;
+	margin-top: -20px;
+}
+.createBtn{
+	/* position: absolute; */
+    display: inline-block;
+    width: 80px;
+    height: 25px;
+    background-color: #5fb336;
+    right: 0;
+    line-height: 25px;
+    bottom: 0px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 2px;
+    float:left;
+    margin-left: 70px;
+}
+#row-fluid{
+	margin-top: 30px;
+	
+}
+.copyright{
+	text-align: center;
+	font-size: 14px;
+	color: #666;
+}
+.copyright span{
+	font-family: 'Arial';
+}
+.span2 a{
+    color: #444444;
+    display: block;
+    line-height: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.money{
+    color: #59a824;
+    font-size: 16px;
+    height: 25px;
+    line-height: 25px;
+    display: inline-block;
+    left: -5px;
+    float:left;
+}
